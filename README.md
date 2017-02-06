@@ -1,6 +1,6 @@
 # kandidaatintyo
 Repository includes batchelor's thesis.
-Thesis is written in finnish.
+Thesis is written in Finnish.
 
 # Johdanto
 Kandidaatintyössä käsitellään kuluttajamarkkinoilta saatavissa olevan mikrokontrollerin soveltuvuutta langattomaan tiedonsiirtoon. Käytännössä tässä kandidaatintyössä luo- daan toimiva sovellus, joka siirtää anturin mittamaa dataa langattomasti palvelimelle ja esittää kyseisen datan käyttäjälle. Applikaatio koostuu mikrokontrollerista, Wi-Fi- ohjainmodulista sekä palvelimesta. Työ suoritettiin rakentamalla kytkennät fyysisten komponenttien välille ja luomalla ohjelmakoodi niiden ohjaamiseen. Ohjelmakoodista tehtiin mahdollisimman helposti ymmärrettävä mahdollista jatkokehitystä varten. Käyt- täjän antamien muuttujien perusteella sovellus kytkeytyy langattomaan verkkoon ja lähettää mikrokontrollerilla sijaitsevan anturin mittaamaa dataa kyseisen verkon palve- limelle. Sovelluksen testaaminen toteutettiin kotiolosuhteissa tavallista, kuluttajakäyt- töön suunniteltua, reititintä käyttäen.
