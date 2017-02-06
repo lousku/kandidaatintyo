@@ -1,5 +1,5 @@
 # kandidaatintyo
-Repository includes batchelor's thesis
+Repository includes batchelor's thesis.
 Thesis is written in finnish.
 
 # Johdanto
